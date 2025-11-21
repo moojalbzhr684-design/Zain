@@ -1,0 +1,38 @@
+F:\salary\salary\bin\Debug\net9.0-windows\salary.exe
+F:\salary\salary\bin\Debug\net9.0-windows\salary.deps.json
+F:\salary\salary\bin\Debug\net9.0-windows\salary.runtimeconfig.json
+F:\salary\salary\bin\Debug\net9.0-windows\salary.dll
+F:\salary\salary\bin\Debug\net9.0-windows\salary.pdb
+F:\salary\salary\obj\Debug\net9.0-windows\salary.Form1.resources
+F:\salary\salary\obj\Debug\net9.0-windows\salary.Properties.Resources.resources
+F:\salary\salary\obj\Debug\net9.0-windows\salary.csproj.GenerateResource.cache
+F:\salary\salary\obj\Debug\net9.0-windows\salary.GeneratedMSBuildEditorConfig.editorconfig
+F:\salary\salary\obj\Debug\net9.0-windows\salary.AssemblyInfoInputs.cache
+F:\salary\salary\obj\Debug\net9.0-windows\salary.AssemblyInfo.cs
+F:\salary\salary\obj\Debug\net9.0-windows\salary.csproj.CoreCompileInputs.cache
+F:\salary\salary\obj\Debug\net9.0-windows\salary.dll
+F:\salary\salary\obj\Debug\net9.0-windows\refint\salary.dll
+F:\salary\salary\obj\Debug\net9.0-windows\salary.pdb
+F:\salary\salary\obj\Debug\net9.0-windows\salary.genruntimeconfig.cache
+F:\salary\salary\obj\Debug\net9.0-windows\ref\salary.dll
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\bin\Debug\net9.0-windows\salary.exe
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\bin\Debug\net9.0-windows\salary.deps.json
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\bin\Debug\net9.0-windows\salary.runtimeconfig.json
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\bin\Debug\net9.0-windows\salary.dll
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\bin\Debug\net9.0-windows\salary.pdb
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Face.resources
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Form1.resources
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Properties.Resources.resources
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.csproj.GenerateResource.cache
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.AssemblyInfoInputs.cache
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.AssemblyInfo.cs
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.csproj.CoreCompileInputs.cache
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.dll
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\refint\salary.dll
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.pdb
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.genruntimeconfig.cache
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\ref\salary.dll
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Reza.resources
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Zain.resources
+C:\Users\HEX STORE\OneDrive\سطح المكتب\salary\salary\obj\Debug\net9.0-windows\salary.Form2.resources
